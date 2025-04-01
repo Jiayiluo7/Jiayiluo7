@@ -1,4 +1,4 @@
-👋 Hi, I’m Jiayi – a Data Intelligence Enthusiast passionate about transforming data into actionable insights!
+#👋 Hi, I’m Jiayi – a Data Intelligence Enthusiast passionate about transforming data into actionable insights!
 
 🚀 My Journey into Data Intelligence
 
