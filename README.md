@@ -16,5 +16,6 @@
  Previously experienced in sales, marketing, business, and education, and skilled in Excel, R, SQL, and Tableau.
  Fluent in Mandarin and English.
 
- ![Alt text](https://raw.githubusercontent.com/Jiayiluo7/Jiayiluo7/blob/main/pic.png)
+![Alt text](https://raw.githubusercontent.com/Jiayiluo7/Jiayiluo7/main/pic.png)
+
 
