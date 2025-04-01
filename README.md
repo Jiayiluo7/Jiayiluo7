@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Jiayi – a Data Intelligence Enthusiast passionate about transforming data into actionable insights!
+🚀 My Journey into Data Intelligence
+2023 – Began my M.S. in Business Analytics at California State University
 
-<!--
-**Jiayiluo7/Jiayiluo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+2024 – Interned at Nutanix, a cloud computing leader; joined the SVCA Internet Mission Team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+2025 – Started a CTC internship with the SVCA IM Team, contributing as an analyst for global students
+
+
+📖 The story continues...
+ I’m actively seeking a full-time position in the U.S.—open to opportunities across industries and domains.
+ Previously experienced in sales, marketing, business, and education, and skilled in Excel, R, SQL, and Tableau.
+ Fluent in Mandarin and English.
+
