@@ -12,6 +12,7 @@
 
 
 📖 The story continues...
+
  I’m actively seeking a full-time position in the U.S.—open to opportunities across industries and domains.
  Previously experienced in sales, marketing, business, and education, and skilled in Excel, R, SQL, and Tableau.
  Fluent in Mandarin and English.
