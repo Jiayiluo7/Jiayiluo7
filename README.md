@@ -16,3 +16,5 @@
  Previously experienced in sales, marketing, business, and education, and skilled in Excel, R, SQL, and Tableau.
  Fluent in Mandarin and English.
 
+ ![Profile Image](https://raw.githubusercontent.com/username/repo/main/images/pic.png)
+
