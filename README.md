@@ -1,5 +1,7 @@
 👋 Hi, I’m Jiayi – a Data Intelligence Enthusiast passionate about transforming data into actionable insights!
+
 🚀 My Journey into Data Intelligence
+
 2023 – Began my M.S. in Business Analytics at California State University
 
 
